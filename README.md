@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kartickey (harsh) aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartickey (harsh) aggarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/opty_mystic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opty_mystic" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@spectre114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@spectre114" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kartickey_612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartickey_612" height="30" width="40" /></a>
 </p>
 
